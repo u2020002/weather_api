@@ -2,7 +2,7 @@ import express from 'express';
 import weatherRoute from './routes/weatherRoutes.js';
 import cors from "cors";
 const app = express();
-const PORT = 3000;
+const PORT = 4780;
 
 app.use(express.json());
 app.use(cors());
