@@ -2,7 +2,6 @@
   "name": "weather_api",
   "version": "1.0.0",
   "description": "The Weather API",
-  "type": "module",
   "engines": {
     "node": ">=18.12 <21"
   },
